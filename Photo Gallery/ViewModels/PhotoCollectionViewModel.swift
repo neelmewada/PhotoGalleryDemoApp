@@ -1,9 +1,3 @@
-//
-//  PhotoCollectionViewModel.swift
-//  Photo Gallery
-//
-//  Created by Neel Mewada on 15/05/21.
-//
 
 import UIKit
 

@@ -1,9 +1,3 @@
-//
-//  Math.swift
-//  Photo-Learn
-//
-//  Created by Neel Mewada on 15/05/21.
-//
 
 import Foundation
 import UIKit

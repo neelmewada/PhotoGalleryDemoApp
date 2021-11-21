@@ -1,9 +1,3 @@
-//
-//  Album.swift
-//  Photo-Learn
-//
-//  Created by Neel Mewada on 14/05/21.
-//
 
 import UIKit
 

@@ -1,9 +1,3 @@
-//
-//  PhotoDetailViewController.swift
-//  Photo Gallery
-//
-//  Created by Neel Mewada on 21/05/21.
-//
 
 import UIKit
 

@@ -1,9 +1,3 @@
-//
-//  ImageCache.swift
-//  Photo Gallery
-//
-//  Created by Neel Mewada on 23/05/21.
-//
 
 import UIKit
 
